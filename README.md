@@ -25,3 +25,45 @@ To run the script, you need to copy the equipment file system to the rootfs fold
 <div align="center">
 	<img src="./rootfs_pic.png" alt="Editor" width="500">
 </div>
+
+# Examples
+
+Here are some commands to see how the tool works.
+
+```
+> qemustart.sh armel squeeze
+
+> qemustart.sh armel wheezy
+ 
+> qemustart.sh armhf wheezy
+
+> qemustart.sh mips squeeze 32
+
+> qemustart.sh mips squeeze 64
+
+> qemustart.sh mips wheezy 32
+
+> qemustart.sh mips wheezy 64
+
+> qemustart.sh mipsel squeeze 32
+
+> qemustart.sh mipsel squeeze 64
+
+> qemustart.sh mipsel wheezy 32
+
+> qemustart.sh mipsel wheezy 64
+```
+
+# Others
+
+If you want to distinguish the structure of the device, you can use these commands:
+
+```
+> file ./rootfs/bin/busybox
+
+> checksec ./rootfs/bin/busybox
+```
+
+# Authors
+
+Hope you enjoy it.
