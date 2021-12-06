@@ -22,4 +22,6 @@ To install all commands in Ubuntu 16.04
 
 To run the script, you need to copy the equipment file system to the rootfs folder, like flowing picture:
 
-![image](rootfs_pic.png)
+<div align="center">
+	<img src="./rootfs_pic.png" alt="Editor" width="500">
+</div>
