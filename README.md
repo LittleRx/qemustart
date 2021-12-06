@@ -54,6 +54,10 @@ Here are some commands to see how the tool works.
 > qemustart.sh mipsel wheezy 64
 ```
 
+<div align="center">
+	<img src="./runvm_pic.png" alt="Editor" width="500">
+</div>
+
 # Others
 
 If you want to distinguish the structure of the device, you can use these commands:
