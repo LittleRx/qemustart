@@ -22,4 +22,4 @@ To install all commands in Ubuntu 16.04
 
 To run the script, you need to copy the equipment file system to the rootfs folder, like flowing picture:
 
-
+![image](rootfs_pic.png)
