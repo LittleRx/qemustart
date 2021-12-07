@@ -58,6 +58,8 @@ Here are some commands to see how the tool works.
 	<img src="./runvm_pic.png" alt="Editor" width="500">
 </div>
 
+The ip adress of virtual machine is 192.168.3.2
+
 # Others
 
 If you want to distinguish the structure of the device, you can use these commands:
