@@ -15,6 +15,7 @@ To install all commands in Ubuntu 16.04
 
 ```
 > sudo apt-get install expect
+> sudo apt-get install uml-utilities
 > sudo apt-get install gnome-terminal
 ```
 
