@@ -15,6 +15,7 @@ To install all commands in Ubuntu 16.04
 
 ```
 > sudo apt-get update
+> sudo apt-get install net-tools
 > sudo apt-get install qemu-system-mips
 > sudo apt-get install qemu-system-arm
 > sudo apt-get install qemu-user-static
