@@ -16,7 +16,7 @@ To install all commands in Ubuntu 16.04
 ```
 > sudo apt-get update
 > sudo apt-get install qemu-system-mips
-> sudo apt-get install qemu-user
+> sudo apt-get install qemu-system-arm
 > sudo apt-get install qemu-user-static
 > sudo apt-get install qemu-utils
 > sudo apt-get install expect
