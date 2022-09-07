@@ -79,4 +79,4 @@ If you want to distinguish the structure of the device, you can use these comman
 
 # Authors
 
-Hope you enjoy it.
+By richard. Hope you enjoy it.
